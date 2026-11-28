@@ -1,7 +1,0 @@
-{
-  "name": "mi-tracker",
-  "private": true,
-  "description": "Mi Tracker: hábitos, horario, tareas y estudio (PWA sin servidor)",
-  "scripts": { "test": "node tests/run.js", "test:storage": "node tests/run.js storage" },
-  "devDependencies": { "fake-indexeddb": "^6.2.6", "jsdom": "^30.1.3" }
-}
